@@ -9,7 +9,7 @@ if (username==user1){
        iframe.src='https://banana-nana.github.io'; 
        iframe.width = window.innerWidth;
        iframe.height = window.innerHeight;
-       document.body.appendChild(iframe);})()
+       document.body.appendChild(iframe);
      }
     else {
   alert("Wrong");
