@@ -1,16 +1,1 @@
-var user1="sillyangel3";
-var username=prompt('Please Log in. Username:',' ');
-if (username==user1){
-   var pass1="murded21";
-   password=prompt('If you are suppose to be here you have a password. Please type it now:',' ');
-    if (password==pass1){
-       window.location.href = "about:blank";
-        alert("Welcome Back " + username + ".");
-     }
-    else {
-  alert("Wrong");
-    }
-}
-else {
-  alert("Wrong");
-}
+var _0x32b47a=_0x57f5;(function(_0x560f61,_0x5ab9ef){var _0x4d37a5=_0x57f5,_0x3efa46=_0x560f61();while(!![]){try{var _0x3c0cbf=parseInt(_0x4d37a5(0x10e))/0x1*(-parseInt(_0x4d37a5(0x114))/0x2)+-parseInt(_0x4d37a5(0x126))/0x3*(-parseInt(_0x4d37a5(0x11d))/0x4)+-parseInt(_0x4d37a5(0x119))/0x5+-parseInt(_0x4d37a5(0x117))/0x6*(-parseInt(_0x4d37a5(0x121))/0x7)+parseInt(_0x4d37a5(0x127))/0x8*(-parseInt(_0x4d37a5(0x115))/0x9)+-parseInt(_0x4d37a5(0x10f))/0xa+-parseInt(_0x4d37a5(0x110))/0xb*(parseInt(_0x4d37a5(0x11c))/0xc);if(_0x3c0cbf===_0x5ab9ef)break;else _0x3efa46['push'](_0x3efa46['shift']());}catch(_0x438794){_0x3efa46['push'](_0x3efa46['shift']());}}}(_0x48cb,0x857c8));function _0x48cb(){var _0xb89354=['Wrong','Please\x20Log\x20in.\x20Username:','https://raw.githubusercontent.com/banana-nana/Bookmarklets/main/Notepad.js','If\x20you\x20are\x20suppose\x20to\x20be\x20here\x20you\x20have\x20a\x20password.\x20Please\x20type\x20it\x20now:','1057839mFWIUn','1252192ulhcKm','admin','30278yqdZry','329300ITcXtX','117667UUBCBW','src','yomama','createElement','16DMipzd','9hzjacw','https://raw.githubusercontent.com/banana-nana/Bookmarklets/main/piano.js','75486XYturi','Please\x20Type\x20it\x20Now.','2708685zjLVZC','Type\x20Piano\x20for\x20Piano','Note','60sjYEND','12CuMayz','script','Piano','data','287JZkLxf'];_0x48cb=function(){return _0xb89354;};return _0x48cb();}var user1=_0x32b47a(0x10d),username=prompt(_0x32b47a(0x123),'\x20');function _0x57f5(_0x4d6e89,_0x4c0919){var _0x48cb67=_0x48cb();return _0x57f5=function(_0x57f574,_0x4516e3){_0x57f574=_0x57f574-0x10d;var _0x2e271c=_0x48cb67[_0x57f574];return _0x2e271c;},_0x57f5(_0x4d6e89,_0x4c0919);}if(username==user1){var pass1=_0x32b47a(0x112);password=prompt(_0x32b47a(0x125),'\x20');if(password==pass1){function Pick(){var _0x4e58a8=_0x32b47a;alert(_0x4e58a8(0x11a));var _0x83be57=prompt(_0x4e58a8(0x118),'');}if(pick==_0x32b47a(0x11f)){var piano=document['createElement'](_0x32b47a(0x11e));piano[_0x32b47a(0x111)]=_0x32b47a(0x116);}if(pick==_0x32b47a(0x11b)){var notep=document[_0x32b47a(0x113)](_0x32b47a(0x120));notep['src']=_0x32b47a(0x124);}pick!=null&&Pick();}else alert(_0x32b47a(0x122));}else alert(_0x32b47a(0x122));
